@@ -1,0 +1,1 @@
+{    "name": "myapp",    "version": "1.0.0",    "description": "Node.js on Docker",    "author": "Yo rch <yo.rc@example.com>",    "main": "app.js",    "scripts": {      "start": "node app.js"    }  }
